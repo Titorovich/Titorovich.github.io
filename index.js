@@ -1,0 +1,1 @@
+window.location.replace('https://vk.com/titorovich_nikita');
